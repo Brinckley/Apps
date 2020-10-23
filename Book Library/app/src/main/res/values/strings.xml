@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Book Library</string>
+    
+    <string name="title_hint">Book Title</string>
+    <string name="author_hint">Book Author</string>
+    <string name="page_hint">Number of pages</string>
+</resources>
