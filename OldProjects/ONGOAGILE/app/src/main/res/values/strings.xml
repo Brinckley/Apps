@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">GoGoal</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="do_not_show_splash">Don\'t show splash</string>
+
+    <string name="current_task">Текущие</string>
+    <string name="done_task">Сделанные</string>
+
+    <string name="dialog_editing_title">Редактировать</string>
+
+    <string name="dialog_title">Добавить</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Отмена</string>
+    <string name="dialog_error_empty_title">Пожалуйста, введите название</string>
+
+    <string name="dialog_removing_message">Вы уверены, что хотите удалить заметку</string>
+    <string name="removed">Удалено</string>
+
+    <string name="task_title">Название</string>
+    <string name="task_date">Дата</string>
+    <string name="task_time">Время</string>
+
+    <string name="separator_overdue">Просроченные</string>
+    <string name="separator_today">Сегодня</string>
+    <string name="separator_tomorrow">Завтра</string>
+    <string name="separator_future">Будущее</string>
+
+    <string name="input_goal">Заполнение дневника</string>
+    <string name="input_habits">Привычки на сегодня</string>
+
+    <string name="intro_long_goal">Как можно точнее сформулируйте, что бы Вы хотели получить. Например получить сертификат за курсы по английскому языку</string>
+    <string name="intro_short_goal">Введите вашу цель</string>
+
+    <string name="intro_goal_parts">Представьте, что цель достигнута, и сформулируйте три этапа на пути к ее достижению</string>
+
+    <string name="next">Далее</string>
+    <string name="exit">Выход</string>
+    <string name="save">Сохранить</string>
+    <string name="back">Назад</string>
+
+    <string name="intro_your_goal">Ваша цель:</string>
+    <string name="title_your_goal">Зайдите в меню и введите цель</string>
+
+    <string name="parts">Три этапа для достижения вашей цели:</string>
+    <string name="name_habits">Привычка</string>
+    <string name="name_why">Почему для меня это важно</string>
+    <string name="name_present">Ваша награда</string>
+
+    <string name="intro_habits">Выработанные привычки делают жизнь проще и помогают расширить коммуникации</string>
+    <string name="short_habits">Введите привычку</string>
+
+    <string name="intro_why">Осознание важности цели помогает ее конкретизировать и добавляет мотивации</string>
+    <string name="short_why">Почему для меня это важно?</string>
+
+    <string name="intro_present">Для многих награда это отличный способ себя смотивировать и сделать достижение цели ещё приятнее</string>
+    <string name="short_present">Введите вашу награду:</string>
+
+    <string name="intro_plan_day">Это Ваш план на день</string>
+    <string name="day_goal">Три цели на день</string>
+    <string name="day_achievement">Достижения дня</string>
+    <string name="day_thanks">Благодарность дня</string>
+    <string name="title_habit">Привычка сегодня</string>
+
+    <string name="title_today_plan">План на сегодня</string>
+
+    <string name="state_for_now">Сводка</string>
+    <string name="start_sprint">Начать спринт</string>
+
+    <string name="main_goals_for_today">Главные три задачи дня</string>
+    <string name="achievement_today">Достижения дня</string>
+    <string name="achievement_hint">Ваше достижение</string>
+    <string name="thanks_today">Благодарность дня</string>
+    <string name="thanks_hint">Ваша благодарность</string>
+
+    <string name="goal_today_part1">Первая задача</string>
+    <string name="goal_today_part2">Вторая задача</string>
+    <string name="goal_today_part3">Третья задача</string>
+
+    <string name="day_end">Закончить день</string>
+
+    <string name="intro_end_week">Вывод за нелелю</string>
+
+    <string name="week_intro_goal">Ваш прогресс на пути к цели</string>
+    <string name="week_what">Чему я научился</string>
+    <string name="week_future">Что я могу улучшить в будущем</string>
+    <string name="week_hint1">Прогресс</string>
+
+    <string name="week_stat">Статистика этой недели</string>
+    <string name="week_end">Закончить неделю</string>
+
+    <string name="Monday">Первый день</string>
+    <string name="Tuesday">Второй день</string>
+    <string name="Wednesday">Третий день</string>
+    <string name="Thursday">Четвертый день</string>
+    <string name="Friday">Пятый день</string>
+    <string name="Saturday">Шестой день</string>
+
+    <string name="sprint_review">Обзор спринта</string>
+    <string name="sprint_goal">О целе спринта</string>
+    <string name="sprint_main">Мое главное достижение за спринт</string>
+    <string name="sprint_learned">Чему важному я научился</string>
+    <string name="sprint_thank">За что и кому я благодарен</string>
+    <string name="sprint_future">Что я могу улучшить в будущем</string>
+
+    <string name="sprint_finish">Закончить спринт</string>
+    <string name="sprint_stat">Посмотреть статистику спринта</string>
+
+    <string name="sprint_week1">Неделя 1</string>
+    <string name="sprint_week2">Неделя 2</string>
+    <string name="sprint_week3">Неделя 3</string>
+    <string name="sprint_week4">Неделя 4</string>
+    <string name="sprint_week5">Неделя 5</string>
+    <string name="sprint_week6">Неделя 6</string>
+    <string name="sprint_week7">Неделя 7</string>
+    <string name="sprint_week8">Неделя 8</string>
+    <string name="sprint_week9">Неделя 9</string>
+
+    <string name="sprint_habit">Процент выполнения привычек</string>
+
+</resources>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".time.ConstantActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/day_number"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textSize="30dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/main_goals_for_today"
+            android:textSize="30dp"/>
+
+        <EditText
+            android:id="@+id/today_task1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/goal_today_part1"/>
+
+        <EditText
+            android:id="@+id/today_task2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/goal_today_part2"/>
+
+        <EditText
+            android:id="@+id/today_task3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/goal_today_part3"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/achievement_today"
+            android:textSize="30dp"/>
+
+        <EditText
+            android:id="@+id/today_ach"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/achievement_hint" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/thanks_today"
+            android:textSize="30dp"/>
+
+        <EditText
+            android:id="@+id/today_thank"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/thanks_hint" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="25dp"
+            android:id="@+id/today_date"/>
+
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/title_habit"
+            android:textSize="25dp"
+            android:id="@+id/habit_check"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/next_day"
+            android:text="@string/day_end"/>
+
+
+    </LinearLayout>
+</ScrollView>

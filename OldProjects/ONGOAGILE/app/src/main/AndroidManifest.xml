@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="info.fandroid.reminder">
+
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <receiver
+            android:name=".alarm.AlarmReceiver"
+            android:process=":remote" />
+        <receiver android:name=".alarm.AlarmSetter">
+            <intent-filter>
+                <action android:name="ANDROID.INTENT.ACTION.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+
+        <activity android:name=".information.GoalActivity" />
+        <activity android:name=".AgileActivity" />
+        <activity android:name=".information.HabitsActivity" />
+        <activity android:name=".information.Why_presentActivity" />
+        <activity android:name=".PlanDayActivity" />
+        <activity android:name=".Main2Activity" />
+        <activity android:name=".diary.DayActivity" />
+        <activity android:name=".information.EndOfWeekActivity" />
+        <activity android:name=".time.ConstantActivity" />
+        <activity android:name=".time.FineWeekActivity" />
+        <activity android:name=".time.OutputStatisticaActivity" />
+        <activity android:name=".time.FineWeeksActivity" />
+        <activity android:name=".time.SpintStatActivity"></activity>
+    </application>
+
+</manifest>

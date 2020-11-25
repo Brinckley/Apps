@@ -1,0 +1,52 @@
+C:\Users\Кирилл\Desktop\Практика №3\Практика №3\bin\Debug\Практика №3.exe.config
+C:\Users\Кирилл\Desktop\Практика №3\Практика №3\bin\Debug\Практика №3.exe
+C:\Users\Кирилл\Desktop\Практика №3\Практика №3\bin\Debug\Практика №3.pdb
+C:\Users\Кирилл\Desktop\Практика №3\Практика №3\obj\Debug\Практика №3.csprojResolveAssemblyReference.cache
+C:\Users\Кирилл\Desktop\Практика №3\Практика №3\obj\Debug\Практика__3.Form1.resources
+C:\Users\Кирилл\Desktop\Практика №3\Практика №3\obj\Debug\Практика__3.Properties.Resources.resources
+C:\Users\Кирилл\Desktop\Практика №3\Практика №3\obj\Debug\Практика №3.csproj.GenerateResource.Cache
+C:\Users\Кирилл\Desktop\Практика №3\Практика №3\obj\Debug\Практика №3.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\Практика №3\Практика №3\obj\Debug\Практика №3.exe
+C:\Users\Кирилл\Desktop\Практика №3\Практика №3\obj\Debug\Практика №3.pdb
+C:\Users\Home\Desktop\Практика №3\Практика №3\bin\Debug\Практика №3.exe.config
+C:\Users\Home\Desktop\Практика №3\Практика №3\bin\Debug\Практика №3.exe
+C:\Users\Home\Desktop\Практика №3\Практика №3\bin\Debug\Практика №3.pdb
+C:\Users\Home\Desktop\Практика №3\Практика №3\obj\Debug\Практика №3.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\Практика №3\Практика №3\obj\Debug\Практика__3.Form1.resources
+C:\Users\Home\Desktop\Практика №3\Практика №3\obj\Debug\Практика__3.Properties.Resources.resources
+C:\Users\Home\Desktop\Практика №3\Практика №3\obj\Debug\Практика №3.csproj.GenerateResource.Cache
+C:\Users\Home\Desktop\Практика №3\Практика №3\obj\Debug\Практика №3.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Практика №3\Практика №3\obj\Debug\Практика №3.exe
+C:\Users\Home\Desktop\Практика №3\Практика №3\obj\Debug\Практика №3.pdb
+C:\Users\User\Desktop\Практика №3\Практика №3\bin\Debug\Практика №3.exe.config
+C:\Users\User\Desktop\Практика №3\Практика №3\bin\Debug\Практика №3.exe
+C:\Users\User\Desktop\Практика №3\Практика №3\bin\Debug\Практика №3.pdb
+C:\Users\User\Desktop\Практика №3\Практика №3\obj\Debug\Практика №3.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Практика №3\Практика №3\obj\Debug\Практика__3.Form1.resources
+C:\Users\User\Desktop\Практика №3\Практика №3\obj\Debug\Практика__3.Properties.Resources.resources
+C:\Users\User\Desktop\Практика №3\Практика №3\obj\Debug\Практика №3.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Практика №3\Практика №3\obj\Debug\Практика №3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Практика №3\Практика №3\obj\Debug\Практика №3.exe
+C:\Users\User\Desktop\Практика №3\Практика №3\obj\Debug\Практика №3.pdb
+Z:\Практика №3\Практика №3\bin\Debug\Практика №3.exe.config
+Z:\Практика №3\Практика №3\obj\Debug\Практика №3.exe
+Z:\Практика №3\Практика №3\obj\Debug\Практика №3.pdb
+Z:\Практика №3\Практика №3\obj\Debug\Практика №3.csprojResolveAssemblyReference.cache
+Z:\Практика №3\Практика №3\obj\Debug\Практика__3.Form1.resources
+Z:\Практика №3\Практика №3\obj\Debug\Практика__3.Properties.Resources.resources
+Z:\Практика №3\Практика №3\obj\Debug\Практика №3.csproj.GenerateResource.Cache
+Z:\Практика №3\Практика №3\bin\Debug\Практика №3.exe
+Z:\Практика №3\Практика №3\bin\Debug\Практика №3.pdb
+Z:\Практика №3\Практика №3\obj\Debug\Практика__3.Form2.resources
+C:\Users\User\Desktop\Практика №3\Практика №3\obj\Debug\Практика__3.Form2.resources
+D:\Практика №3\bin\Debug\Практика №3.exe.config
+D:\Практика №3\bin\Debug\Практика №3.exe
+D:\Практика №3\bin\Debug\Практика №3.pdb
+D:\Практика №3\obj\Debug\Практика №3.csprojResolveAssemblyReference.cache
+D:\Практика №3\obj\Debug\Практика__3.Form1.resources
+D:\Практика №3\obj\Debug\Практика__3.Form2.resources
+D:\Практика №3\obj\Debug\Практика__3.Properties.Resources.resources
+D:\Практика №3\obj\Debug\Практика №3.csproj.GenerateResource.Cache
+D:\Практика №3\obj\Debug\Практика №3.csproj.CoreCompileInputs.cache
+D:\Практика №3\obj\Debug\Практика №3.exe
+D:\Практика №3\obj\Debug\Практика №3.pdb
