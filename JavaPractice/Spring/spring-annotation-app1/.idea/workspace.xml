@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e11f957-a0c5-4c0f-9616-7f437d83988b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Android/Book Library/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/Book Library/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/Book Library/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/Book Library/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/Book Library/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/Book Library/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/Book Library/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/Book Library/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/Book Library/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/Book Library/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/Book Library/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/Book Library/app/src/androidTest/java/com/brinkley/booklibrary/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/Book Library/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/Book Library/app/src/main/java/com/brinkley/booklibrary/AddActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/Book Library/app/src/main/java/com/brinkley/booklibrary/CustomAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/Book Library/app/src/main/java/com/brinkley/booklibrary/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/Book Library/app/src/main/java/com/brinkley/booklibrary/database/BookTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/Book Library/app/src/main/java/com/brinkley/booklibrary/database/DBHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/Book Library/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/Book Library/app/src/main/res/drawable/ic_add.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/Book Library/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/Book Library/app/src/main/res/layout/activity_add.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/Book Library/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/Book Library/app/src/main/res/layout/recycler_row.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/Book Library/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/Book Library/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/Book Library/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/Book Library/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/Book Library/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/Book Library/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/Book Library/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/Book Library/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/Book Library/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/Book Library/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/Book Library/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/Book Library/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/Book Library/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/Book Library/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/Book Library/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/Book Library/app/src/test/java/com/brinkley/booklibrary/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/Book Library/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/Book Library/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/Book Library/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/Book Library/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/Book Library/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/Book Library/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/Book Library/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/androidTest/java/com/brinkley/criminalintent/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/main/java/com/brinkley/criminalintent/Crime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/main/java/com/brinkley/criminalintent/CrimeFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/main/java/com/brinkley/criminalintent/CrimeLab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/main/java/com/brinkley/criminalintent/CrimeListActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/main/java/com/brinkley/criminalintent/CrimeListFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/main/java/com/brinkley/criminalintent/CrimePagerActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/main/java/com/brinkley/criminalintent/DatePickerFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/main/java/com/brinkley/criminalintent/SingleFragmentActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/main/java/database/CrimeBaseHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/main/java/database/CrimeCursorWrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/main/java/database/CrimeDbSchema.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/main/res/drawable-anydpi/ic_menu_add.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/main/res/drawable-hdpi/ic_menu_add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/main/res/drawable-hdpi/ic_solved.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/main/res/drawable-mdpi/ic_menu_add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/main/res/drawable-mdpi/ic_solved.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/main/res/drawable-xhdpi/ic_menu_add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/main/res/drawable-xhdpi/ic_solved.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/main/res/drawable-xxhdpi/ic_menu_add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/main/res/drawable-xxhdpi/ic_solved.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/main/res/drawable-xxxhdpi/ic_solved.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/main/res/layout/activity_crime_pager.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/main/res/layout/activity_fragment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/main/res/layout/dialog_date.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/main/res/layout/fragment_crime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/main/res/layout/fragment_crime_list.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/main/res/layout/list_item_crime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/main/res/menu/fragment_crime_list.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/app/src/test/java/com/brinkley/criminalintent/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/CriminalIntent/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/app/src/androidTest/java/com/Brinkley/geoquiz/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/app/src/main/java/com/Brinkley/geoquiz/CheatActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/app/src/main/java/com/Brinkley/geoquiz/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/app/src/main/java/com/Brinkley/geoquiz/Question.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/app/src/main/res/drawable-hdpi/arrow_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/app/src/main/res/drawable-hdpi/arrow_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/app/src/main/res/drawable-mdpi/arrow_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/app/src/main/res/drawable-mdpi/arrow_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/app/src/main/res/drawable-xhdpi/arrow_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/app/src/main/res/drawable-xhdpi/arrow_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/app/src/main/res/drawable-xxhdpi/arrow_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/app/src/main/res/drawable-xxhdpi/arrow_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/app/src/main/res/layout-land/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/app/src/main/res/layout/activity_cheat.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/app/src/test/java/com/Brinkley/geoquiz/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Android/GeoQuiz/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/BinarySearch/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/BinarySearch/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/BinarySearch/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/BinarySearch/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/BinarySearch/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/BinarySearch/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/BinarySearch/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/BinarySearch/BinarySearch.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/BinarySearch/out/production/BinarySearch/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/BinarySearch/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/BubbleSort/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/BubbleSort/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/BubbleSort/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/BubbleSort/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/BubbleSort/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/BubbleSort/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/BubbleSort/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/BubbleSort/BubbleSort.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/BubbleSort/out/production/BubbleSort/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/BubbleSort/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/ChooseSort/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/ChooseSort/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/ChooseSort/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/ChooseSort/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/ChooseSort/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/ChooseSort/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/ChooseSort/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/ChooseSort/ChooseSort.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/ChooseSort/out/production/ChooseSort/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/ChooseSort/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/GraphWalkDepth/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/GraphWalkDepth/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/GraphWalkDepth/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/GraphWalkDepth/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/GraphWalkDepth/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/GraphWalkDepth/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/GraphWalkDepth/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/GraphWalkDepth/GraphWalkDepth.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/GraphWalkDepth/out/production/GraphWalkDepth/com/company/Main$Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/GraphWalkDepth/out/production/GraphWalkDepth/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/GraphWalkDepth/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/GraphWalkDepthWidthPt2/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/GraphWalkDepthWidthPt2/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/GraphWalkDepthWidthPt2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/GraphWalkDepthWidthPt2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/GraphWalkDepthWidthPt2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/GraphWalkDepthWidthPt2/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/GraphWalkDepthWidthPt2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/GraphWalkDepthWidthPt2/GraphWalkDepthWidthPt2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/GraphWalkDepthWidthPt2/out/production/GraphWalkDepthWidthPt2/com/company/Main$Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/GraphWalkDepthWidthPt2/out/production/GraphWalkDepthWidthPt2/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/GraphWalkDepthWidthPt2/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/KnuthMorrisPrattAlgo/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/KnuthMorrisPrattAlgo/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/KnuthMorrisPrattAlgo/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/KnuthMorrisPrattAlgo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/KnuthMorrisPrattAlgo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/KnuthMorrisPrattAlgo/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/KnuthMorrisPrattAlgo/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/KnuthMorrisPrattAlgo/KnuthMorrisPrattAlgo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/KnuthMorrisPrattAlgo/out/production/KnuthMorrisPrattAlgo/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/KnuthMorrisPrattAlgo/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/MergeSort/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/MergeSort/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/MergeSort/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/MergeSort/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/MergeSort/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/MergeSort/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/MergeSort/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/MergeSort/MergeSort.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/MergeSort/out/production/MergeSort/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/MergeSort/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/MinInMass/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/MinInMass/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/MinInMass/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/MinInMass/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/MinInMass/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/MinInMass/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/MinInMass/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/MinInMass/MinInMass.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/MinInMass/out/production/MinInMass/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/MinInMass/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/QSort/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/QSort/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/QSort/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/QSort/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/QSort/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/QSort/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/QSort/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/QSort/QSort.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/QSort/out/production/QSort/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/QSort/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/QueueStackRealisation/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/QueueStackRealisation/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/QueueStackRealisation/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/QueueStackRealisation/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/QueueStackRealisation/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/QueueStackRealisation/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/QueueStackRealisation/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/QueueStackRealisation/QueueStackRealisation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/QueueStackRealisation/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/QueueStackRealisation/src/com/company/Queue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/SearchInFolders/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/SearchInFolders/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/SearchInFolders/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/SearchInFolders/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/SearchInFolders/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/SearchInFolders/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/SearchInFolders/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/SearchInFolders/SearchInFolders.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/SearchInFolders/out/production/SearchInFolders/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sorts/SearchInFolders/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-annotation-app1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/brinkley/spring/ClassicalMusic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/brinkley/spring/Music.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/brinkley/spring/MusicPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/brinkley/spring/RockMusic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/brinkley/spring/SynthMusic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/brinkley/spring/TestSpring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/musicPlayer.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/brinkley/spring/ClassicalMusic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/brinkley/spring/Music.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/brinkley/spring/MusicPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/brinkley/spring/RockMusic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/brinkley/spring/SynthMusic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/brinkley/spring/TestSpring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/musicPlayer.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-app1/spring-app1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-app1/spring-app1/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-app1/spring-app1/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-app1/spring-app1/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-app1/spring-app1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-app1/spring-app1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-app1/spring-app1/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-app1/spring-app1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-app1/spring-app1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-app1/spring-app1/spring-app1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-app1/spring-app1/src/main/java/com/brinkley/spring/ClassicalMusic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-app1/spring-app1/src/main/java/com/brinkley/spring/Music.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-app1/spring-app1/src/main/java/com/brinkley/spring/MusicPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-app1/spring-app1/src/main/java/com/brinkley/spring/RockMusic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-app1/spring-app1/src/main/java/com/brinkley/spring/SynthMusic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-app1/spring-app1/src/main/java/com/brinkley/spring/TestSpring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-app1/spring-app1/src/main/resources/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-app1/spring-app1/src/main/resources/musicPlayer.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-app1/spring-app1/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-app1/spring-app1/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-app1/spring-app1/target/classes/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-app1/spring-app1/target/classes/com/brinkley/spring/ClassicalMusic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-app1/spring-app1/target/classes/com/brinkley/spring/Music.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-app1/spring-app1/target/classes/com/brinkley/spring/MusicPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-app1/spring-app1/target/classes/com/brinkley/spring/RockMusic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-app1/spring-app1/target/classes/com/brinkley/spring/SynthMusic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-app1/spring-app1/target/classes/com/brinkley/spring/TestSpring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-app1/spring-app1/target/classes/musicPlayer.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/DrawingWindowsFormsApplication/.vs/WindowsFormsApplication11/v14/_suo.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/DrawingWindowsFormsApplication/.vs/WindowsFormsApplication11/v15/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/DrawingWindowsFormsApplication/.vs/WindowsFormsApplication11/v15/Server/sqlite3/db.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/DrawingWindowsFormsApplication/.vs/WindowsFormsApplication11/v15/Server/sqlite3/storage.ide" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/DrawingWindowsFormsApplication/WindowsFormsApplication11.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/DrawingWindowsFormsApplication/WindowsFormsApplication11/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/DrawingWindowsFormsApplication/WindowsFormsApplication11/Fig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/DrawingWindowsFormsApplication/WindowsFormsApplication11/Form1.Designer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/DrawingWindowsFormsApplication/WindowsFormsApplication11/Form1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/DrawingWindowsFormsApplication/WindowsFormsApplication11/Form1.resx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/DrawingWindowsFormsApplication/WindowsFormsApplication11/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/DrawingWindowsFormsApplication/WindowsFormsApplication11/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/DrawingWindowsFormsApplication/WindowsFormsApplication11/Properties/Resources.Designer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/DrawingWindowsFormsApplication/WindowsFormsApplication11/Properties/Resources.resx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/DrawingWindowsFormsApplication/WindowsFormsApplication11/Properties/Settings.Designer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/DrawingWindowsFormsApplication/WindowsFormsApplication11/Properties/Settings.settings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/DrawingWindowsFormsApplication/WindowsFormsApplication11/WindowsFormsApplication11.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/DrawingWindowsFormsApplication/WindowsFormsApplication11/bin/Debug/WindowsFormsApplication11.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/DrawingWindowsFormsApplication/WindowsFormsApplication11/bin/Debug/WindowsFormsApplication11.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/DrawingWindowsFormsApplication/WindowsFormsApplication11/bin/Debug/WindowsFormsApplication11.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/DrawingWindowsFormsApplication/WindowsFormsApplication11/bin/Debug/WindowsFormsApplication11.vshost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/DrawingWindowsFormsApplication/WindowsFormsApplication11/bin/Debug/WindowsFormsApplication11.vshost.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/DrawingWindowsFormsApplication/WindowsFormsApplication11/bin/Debug/WindowsFormsApplication11.vshost.exe.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/DrawingWindowsFormsApplication/WindowsFormsApplication11/obj/Debug/DesignTimeResolveAssemblyReferences.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/DrawingWindowsFormsApplication/WindowsFormsApplication11/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/DrawingWindowsFormsApplication/WindowsFormsApplication11/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/DrawingWindowsFormsApplication/WindowsFormsApplication11/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/DrawingWindowsFormsApplication/WindowsFormsApplication11/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/DrawingWindowsFormsApplication/WindowsFormsApplication11/obj/Debug/WindowsFormsApplication11.Form1.resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/DrawingWindowsFormsApplication/WindowsFormsApplication11/obj/Debug/WindowsFormsApplication11.Properties.Resources.resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/DrawingWindowsFormsApplication/WindowsFormsApplication11/obj/Debug/WindowsFormsApplication11.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/DrawingWindowsFormsApplication/WindowsFormsApplication11/obj/Debug/WindowsFormsApplication11.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/DrawingWindowsFormsApplication/WindowsFormsApplication11/obj/Debug/WindowsFormsApplication11.csproj.GenerateResource.Cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/DrawingWindowsFormsApplication/WindowsFormsApplication11/obj/Debug/WindowsFormsApplication11.csprojResolveAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/DrawingWindowsFormsApplication/WindowsFormsApplication11/obj/Debug/WindowsFormsApplication11.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/DrawingWindowsFormsApplication/WindowsFormsApplication11/obj/Debug/WindowsFormsApplication11.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/HugePractice/.vs/Практика №3/v15/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/HugePractice/.vs/Решение/v15/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/HugePractice/.vs/Решение/v15/Server/sqlite3/db.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/HugePractice/.vs/Решение/v15/Server/sqlite3/storage.ide" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/HugePractice/.vs/Решение/v15/Server/sqlite3/storage.ide-shm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/HugePractice/.vs/Решение/v15/Server/sqlite3/storage.ide-wal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/HugePractice/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/HugePractice/Form1.Designer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/HugePractice/Form1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/HugePractice/Form1.resx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/HugePractice/Form2.Designer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/HugePractice/Form2.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/HugePractice/Form2.resx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/HugePractice/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/HugePractice/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/HugePractice/Properties/Resources.Designer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/HugePractice/Properties/Resources.resx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/HugePractice/Properties/Settings.Designer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/HugePractice/Properties/Settings.settings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/HugePractice/RadiusEventArgs.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/HugePractice/Top.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/HugePractice/bin/Debug/Практика №3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/HugePractice/bin/Debug/Практика №3.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/HugePractice/bin/Debug/Практика №3.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/HugePractice/bin/Debug/Практика №3.vshost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/HugePractice/bin/Debug/Практика №3.vshost.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/HugePractice/bin/Debug/Практика №3.vshost.exe.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/HugePractice/obj/Debug/DesignTimeResolveAssemblyReferences.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/HugePractice/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/HugePractice/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/HugePractice/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/HugePractice/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/HugePractice/obj/Debug/Практика №3.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/HugePractice/obj/Debug/Практика №3.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/HugePractice/obj/Debug/Практика №3.csproj.GenerateResource.Cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/HugePractice/obj/Debug/Практика №3.csprojResolveAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/HugePractice/obj/Debug/Практика №3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/HugePractice/obj/Debug/Практика №3.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/HugePractice/obj/Debug/Практика__3.Form1.resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/HugePractice/obj/Debug/Практика__3.Form2.resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/HugePractice/obj/Debug/Практика__3.Properties.Resources.resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/HugePractice/obj/Debug/Решение.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/HugePractice/obj/Debug/Решение.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/HugePractice/obj/Debug/Решение.csproj.GenerateResource.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/HugePractice/obj/Debug/Решение.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/HugePractice/Решение.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/.idea/caches/build_file_checksums.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/java/info/fandroid/reminder/AgileActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/java/info/fandroid/reminder/Main2Activity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/java/info/fandroid/reminder/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/java/info/fandroid/reminder/MyApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/java/info/fandroid/reminder/PlanDayActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/java/info/fandroid/reminder/Utils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/java/info/fandroid/reminder/adapter/CurrentTasksAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/java/info/fandroid/reminder/adapter/DoneTasksAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/java/info/fandroid/reminder/adapter/TabAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/java/info/fandroid/reminder/adapter/TaskAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/java/info/fandroid/reminder/alarm/AlarmHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/java/info/fandroid/reminder/alarm/AlarmReceiver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/java/info/fandroid/reminder/alarm/AlarmSetter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/java/info/fandroid/reminder/database/DBHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/java/info/fandroid/reminder/database/DBQueryManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/java/info/fandroid/reminder/database/DBUpdateManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/java/info/fandroid/reminder/dialog/AddingTaskDialogFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/java/info/fandroid/reminder/dialog/DatePickerFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/java/info/fandroid/reminder/dialog/EditTaskDialogFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/java/info/fandroid/reminder/dialog/TimePickerFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/java/info/fandroid/reminder/diary/DayActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/java/info/fandroid/reminder/fragment/CurrentTaskFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/java/info/fandroid/reminder/fragment/DoneTaskFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/java/info/fandroid/reminder/fragment/SplashFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/java/info/fandroid/reminder/fragment/TaskFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/java/info/fandroid/reminder/information/EndOfWeekActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/java/info/fandroid/reminder/information/GoalActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/java/info/fandroid/reminder/information/HabitsActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/java/info/fandroid/reminder/information/Why_presentActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/java/info/fandroid/reminder/model/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/java/info/fandroid/reminder/model/ModelSeparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/java/info/fandroid/reminder/model/ModelTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/java/info/fandroid/reminder/preferences/DayPlanHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/java/info/fandroid/reminder/preferences/DaySHHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/java/info/fandroid/reminder/preferences/PreferenceHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/java/info/fandroid/reminder/preferences/SHHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/java/info/fandroid/reminder/preferences/WeekEndHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/java/info/fandroid/reminder/preferences/Weekcounter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/java/info/fandroid/reminder/time/ConstantActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/java/info/fandroid/reminder/time/FineWeekActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/java/info/fandroid/reminder/time/FineWeeksActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/java/info/fandroid/reminder/time/OutputStatisticaActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/java/info/fandroid/reminder/time/SaverSprint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/java/info/fandroid/reminder/time/SpintStatActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/java/info/fandroid/reminder/time/TimeHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-hdpi/ic_add_white_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-hdpi/ic_check_circle_white_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-hdpi/ic_check_circle_white_48dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-hdpi/ic_check_white_48dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-hdpi/ic_checkbox_blank_circle_black_18dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-hdpi/ic_checkbox_blank_circle_black_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-hdpi/ic_checkbox_blank_circle_black_36dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-hdpi/ic_checkbox_blank_circle_black_48dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-hdpi/ic_checkbox_blank_circle_grey600_18dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-hdpi/ic_checkbox_blank_circle_grey600_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-hdpi/ic_checkbox_blank_circle_grey600_36dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-hdpi/ic_checkbox_blank_circle_grey600_48dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-hdpi/ic_checkbox_blank_circle_white_18dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-hdpi/ic_checkbox_blank_circle_white_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-hdpi/ic_checkbox_blank_circle_white_36dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-hdpi/ic_checkbox_blank_circle_white_48dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-hdpi/ic_more_vert_white_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-hdpi/ic_search_white_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-mdpi/ic_add_white_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-mdpi/ic_check_circle_white_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-mdpi/ic_check_circle_white_48dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-mdpi/ic_check_white_48dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-mdpi/ic_checkbox_blank_circle_black_18dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-mdpi/ic_checkbox_blank_circle_black_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-mdpi/ic_checkbox_blank_circle_black_36dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-mdpi/ic_checkbox_blank_circle_black_48dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-mdpi/ic_checkbox_blank_circle_grey600_18dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-mdpi/ic_checkbox_blank_circle_grey600_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-mdpi/ic_checkbox_blank_circle_grey600_36dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-mdpi/ic_checkbox_blank_circle_grey600_48dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-mdpi/ic_checkbox_blank_circle_white_18dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-mdpi/ic_checkbox_blank_circle_white_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-mdpi/ic_checkbox_blank_circle_white_36dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-mdpi/ic_checkbox_blank_circle_white_48dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-mdpi/ic_more_vert_white_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-mdpi/ic_search_white_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xhdpi/ic_add_white_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xhdpi/ic_check_circle_white_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xhdpi/ic_check_circle_white_48dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xhdpi/ic_check_white_48dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xhdpi/ic_checkbox_blank_circle_black_18dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xhdpi/ic_checkbox_blank_circle_black_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xhdpi/ic_checkbox_blank_circle_black_36dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xhdpi/ic_checkbox_blank_circle_black_48dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xhdpi/ic_checkbox_blank_circle_grey600_18dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xhdpi/ic_checkbox_blank_circle_grey600_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xhdpi/ic_checkbox_blank_circle_grey600_36dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xhdpi/ic_checkbox_blank_circle_grey600_48dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xhdpi/ic_checkbox_blank_circle_white_18dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xhdpi/ic_checkbox_blank_circle_white_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xhdpi/ic_checkbox_blank_circle_white_36dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xhdpi/ic_checkbox_blank_circle_white_48dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xhdpi/ic_more_vert_white_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xhdpi/ic_search_white_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xxhdpi/ic_add_white_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xxhdpi/ic_check_circle_white_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xxhdpi/ic_check_circle_white_48dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xxhdpi/ic_check_white_48dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xxhdpi/ic_checkbox_blank_circle_black_18dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xxhdpi/ic_checkbox_blank_circle_black_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xxhdpi/ic_checkbox_blank_circle_black_36dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xxhdpi/ic_checkbox_blank_circle_black_48dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xxhdpi/ic_checkbox_blank_circle_grey600_18dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xxhdpi/ic_checkbox_blank_circle_grey600_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xxhdpi/ic_checkbox_blank_circle_grey600_36dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xxhdpi/ic_checkbox_blank_circle_grey600_48dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xxhdpi/ic_checkbox_blank_circle_white_18dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xxhdpi/ic_checkbox_blank_circle_white_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xxhdpi/ic_checkbox_blank_circle_white_36dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xxhdpi/ic_checkbox_blank_circle_white_48dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xxhdpi/ic_more_vert_white_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xxhdpi/ic_search_white_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xxxhdpi/ic_add_white_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xxxhdpi/ic_check_circle_white_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xxxhdpi/ic_check_circle_white_48dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xxxhdpi/ic_check_white_48dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xxxhdpi/ic_checkbox_blank_circle_black_18dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xxxhdpi/ic_checkbox_blank_circle_black_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xxxhdpi/ic_checkbox_blank_circle_black_36dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xxxhdpi/ic_checkbox_blank_circle_black_48dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xxxhdpi/ic_checkbox_blank_circle_grey600_18dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xxxhdpi/ic_checkbox_blank_circle_grey600_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xxxhdpi/ic_checkbox_blank_circle_grey600_36dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xxxhdpi/ic_checkbox_blank_circle_grey600_48dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xxxhdpi/ic_checkbox_blank_circle_white_18dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xxxhdpi/ic_checkbox_blank_circle_white_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xxxhdpi/ic_checkbox_blank_circle_white_36dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xxxhdpi/ic_checkbox_blank_circle_white_48dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xxxhdpi/ic_more_vert_white_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable-xxxhdpi/ic_search_white_24dp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable/checkbox_blank_circle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/drawable/splashreminder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/layout/activity_agile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/layout/activity_constant.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/layout/activity_day.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/layout/activity_end_of_week.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/layout/activity_fine_week.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/layout/activity_fine_weeks.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/layout/activity_goal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/layout/activity_habits.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/layout/activity_main2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/layout/activity_output_statistica.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/layout/activity_plan_day.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/layout/activity_spint_stat.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/layout/activity_why_present.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/layout/dialog_task.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/layout/fragment_current_task.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/layout/fragment_done_task.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/layout/fragment_splash.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/layout/model_separator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/layout/model_task.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/menu/menu_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/values-v21/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OldProjects/ONGOAGILE/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\805каф\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1kVeR8qmR31c2Ay5SpJgVbyjzWI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../SpringPractice/spring-annotation-app1" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects Java\Spring\spring-annotation-app1\src\main\resources" />
+      <recent name="D:\Projects Java\Spring\spring-annotation-app1\src\main\java\com\brinkley\spring" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TestSpring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.brinkley.spring.TestSpring" />
+      <module name="spring-annotation-app1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.brinkley.spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestSpring" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e11f957-a0c5-4c0f-9616-7f437d83988b" name="Default Changelist" comment="" />
+      <created>1605790176468</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605790176468</updated>
+      <workItem from="1605790177624" duration="2200000" />
+      <workItem from="1605792520081" duration="397000" />
+      <workItem from="1606034262347" duration="838000" />
+      <workItem from="1606294476714" duration="595000" />
+      <workItem from="1606303444598" duration="1201000" />
+      <workItem from="1606305187017" duration="599000" />
+      <workItem from="1606306019454" duration="1277000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1606311505494">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606311505494" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1606311507030">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606311507030" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1606311507029">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606311507029" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1606311507029">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606311507029" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1606311507029">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606311507029" />
+  </component>
+</project>
